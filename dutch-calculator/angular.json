@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "dutch-calculator"
+    }
+  },
+  "defaultProject": "dutch-calculator",
+  "cli": {
+    "analytics": false
+  }
 }
